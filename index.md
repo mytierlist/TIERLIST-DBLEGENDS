@@ -1,7 +1,7 @@
 <h1> Os 10 melhores times de Dragon Ball legends e suas explicações </h1>
-<br> <h3> Neste site, você encontrará uma tierlist dos 10 melhores times de dragon ball legends. Caso queira a explicação para tal time estar em tal posição, toque na imagem do time e aparecerá suas informações, personagens necessários, e por qual motivo o time é considerado bom ou ruim. </h3>
+<br> Neste site, você encontrará uma tierlist dos 10 melhores times de dragon ball legends. Caso queira a explicação para tal time estar em tal posição, toque na imagem do time e aparecerá suas informações, personagens necessários, e por qual motivo o time é considerado bom ou ruim.
 
-<br><h1>TIERLIST</h1>
+<br>TIERLIST
 
 <div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -15,4 +15,3 @@
 <br><img align="center" alt="time 8" src="https://cdn.discordapp.com/attachments/489234783734595604/945437234218299472/vegetafamily1.png">
 <br><img align="center" alt="time 9" src="https://cdn.discordapp.com/attachments/489234783734595604/945437394658795620/REGENTEAM.png">
 <br><img align="center" alt="time 10" src="https://cdn.discordapp.com/attachments/489234783734595604/945437399788441670/TOPANDROIDS.png">
-  </div>
