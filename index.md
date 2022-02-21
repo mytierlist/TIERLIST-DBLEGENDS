@@ -4,7 +4,7 @@
 <br>TIERLIST
 
 <div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="https://iplogger.org/36Spa4">
 <img align="center" alt="time 1" src="https://cdn.discordapp.com/attachments/489234783734595604/945435114685468712/gtteambanner.png">
 <br><img align="center" alt="time 2" src="https://cdn.discordapp.com/attachments/489234783734595604/945436413720141864/FUSIONTEAM.png">
 <br><img align="center" alt="time 3" src="https://cdn.discordapp.com/attachments/489234783734595604/945436549577854986/SSJTEAMBANNER.png">
