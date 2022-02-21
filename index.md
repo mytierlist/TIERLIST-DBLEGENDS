@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+<h1> Os 10 melhores times de Dragon Ball legends e suas explicações </h1>
+<br> <h3> Neste site, você encontrará uma tierlist dos 10 melhores times de dragon ball legends. Caso queira a explicação para tal time estar em tal posição, toque na imagem do time e aparecerá suas informações, personagens necessários, e por qual motivo o time é considerado bom ou ruim. </h3>
 
-You can use the [editor on GitHub](https://github.com/DbLegendsTIERLIST/TIERLIST-DBLEGENDS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br><h1>TIERLIST</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DbLegendsTIERLIST/TIERLIST-DBLEGENDS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img align="center" alt="time 1" src="https://cdn.discordapp.com/attachments/489234783734595604/945435114685468712/gtteambanner.png">
+<br><img align="center" alt="time 2" src="https://cdn.discordapp.com/attachments/489234783734595604/945436413720141864/FUSIONTEAM.png">
+<br><img align="center" alt="time 3" src="https://cdn.discordapp.com/attachments/489234783734595604/945436549577854986/SSJTEAMBANNER.png">
+<br><img align="center" alt="time 4" src="https://cdn.discordapp.com/attachments/489234783734595604/945436681404829707/LOE.png">
+<br><img align="center" alt="time 5" src="https://cdn.discordapp.com/attachments/489234783734595604/945436857460719637/MOVIES.png">
+<br><img align="center" alt="time 6" src="https://cdn.discordapp.com/attachments/489234783734595604/945437010661879868/FUTURETEAM.png">
+<br><img align="center" alt="time 7" src="https://cdn.discordapp.com/attachments/489234783734595604/945437111593611274/GODKITEAMM.png">
+<br><img align="center" alt="time 8" src="https://cdn.discordapp.com/attachments/489234783734595604/945437234218299472/vegetafamily1.png">
+<br><img align="center" alt="time 9" src="https://cdn.discordapp.com/attachments/489234783734595604/945437394658795620/REGENTEAM.png">
+<br><img align="center" alt="time 10" src="https://cdn.discordapp.com/attachments/489234783734595604/945437399788441670/TOPANDROIDS.png">
+  </div>
