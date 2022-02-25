@@ -1,3 +1,3 @@
 # TIERLIST-DBLEGENDS
 Tierlist de Dragon Ball Legends (2022)
-https://dblegendstierlist.github.io/TIERLIST-DBLEGENDS/
+https://tierllst.github.io/TIERLIST-DBLEGENDS/
